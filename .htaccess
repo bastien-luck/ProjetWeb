@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^projetweb/myaccount$ /projetweb/myaccount.php?&%{QUERY_STRING}
